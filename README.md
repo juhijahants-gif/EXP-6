@@ -11,9 +11,11 @@ DIAGRAM:
 ![alt text](<Screenshot 2026-03-14 112257.png>)
 
 CIRCUIT DIAGRAM
+
 ![alt text](<Screenshot 2026-03-14 112318.png>)
+
 PROCEDURE: -
-I. Connect the multimeter at the output of kit..
+1. Connect the multimeter at the output of kit..
 2. Set the range to a maximum value of 10 mm.
 3. More the gauge from zero to maximum of 20mm.
 4. Value and note the corresponding values of voltages in the multimeter.
